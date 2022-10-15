@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BrainTrainer</string>
+    <string name="current_score_text">%d / %d</string>
+    <string name="positive_question">%d + %d</string>
+    <string name="negative_question">%d - %d</string>
+    <string name="timer_text">%02d:%02d</string>
+    <string name="answer_text">Answer</string>
+    <string name="third_button_text">3</string>
+    <string name="forth_button_text">4</string>
+    <string name="first_button_text">1</string>
+    <string name="second_button_text">2</string>
+    <string name="right_answer">Отлично! Правильный ответ!</string>
+    <string name="wrong_answer">Нет, не верно! Попробуй еще раз!</string>
+    <string name="string_number">%d</string>
+    <string name="time_is_over">Время вышло!!!</string>
+    <string name="game_result">Правильных ответов: %d\nЛучший результат: %d</string>
+    <string name="game_start_again">Попробовать еще раз</string>
+</resources>
